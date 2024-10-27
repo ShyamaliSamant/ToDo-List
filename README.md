@@ -1,2 +1,2 @@
 # ToDo-List
-It is basic To Do list App.
+It is a basic To Do list App.
